@@ -1,0 +1,6 @@
+.item{
+    margin-left: 20px;
+    margin-bottom: 300px;
+    display: flex;
+    flex-direction: column;
+}

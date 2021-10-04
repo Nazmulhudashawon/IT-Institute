@@ -1,0 +1,29 @@
+.link{
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+    font-weight: bold;
+    font-size: 18px;
+    text-align:center;
+    padding: 20px;
+
+}
+.header{
+    display: flex;
+    align-content: space-between;
+    align-items:stretch;
+    line-height: 80px;
+    background-color: rgb(34, 27, 32);
+    margin:0 0 10px 0;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+    
+}
+h4{
+    margin-left: 1rem;
+    color:white;
+}
+.navlink{
+    margin-right: 1rem;
+}

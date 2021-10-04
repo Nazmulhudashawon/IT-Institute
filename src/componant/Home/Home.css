@@ -1,0 +1,9 @@
+.tagline{
+    text-align: center;
+    font-weight: 700;
+}
+.card{
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    border:0;
+}

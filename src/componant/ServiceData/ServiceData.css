@@ -1,0 +1,9 @@
+.img{
+    width: 280px;
+    height: 200px;
+}
+.card{
+    margin: 5px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

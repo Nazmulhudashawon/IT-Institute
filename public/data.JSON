@@ -1,0 +1,58 @@
+[
+    {
+        "key": "01",
+        "courseName": "Network Security",
+        "img": "https://www.ionos.ca/digitalguide/fileadmin/DigitalGuide/Teaser/computer-network-t.jpg",
+        "fee": "360",
+        "Duration": "6 months"
+    },
+    {
+        "key": "02",
+        "courseName": "Social Media Marketing",
+        "img": "http://cdn2.hubspot.net/hub/145335/file-405612798-jpeg/blog-files/integrating-social-media-with-your-marketing-campaign.jpeg",
+        "fee": "250",
+        "Duration": "6 months"
+    },
+    {
+        "key": "03",
+        "courseName": "web Development",
+        "img": "https://cdn.mos.cms.futurecdn.net/CT9xCjqrhnPD4ivB6B8Hqe.jpg",
+        "fee": "390",
+        "Duration": "6 months"
+    },
+    {
+        "key": "04",
+        "courseName": "UI/UX Design",
+        "img": "https://i.ytimg.com/vi/mYp11gGzgmQ/maxresdefault.jpg",
+        "fee": "180",
+        "Duration": "3 months"
+    },
+    {
+        "key": "05",
+        "courseName": "phython Full course",
+        "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+        "fee": "400",
+        "Duration": "6 months"
+    },
+    {
+        "key": "06",
+        "courseName": "Ethical Hacking",
+        "img": "https://prod-discovery.edx-cdn.org/media/programs/card_images/a11c408f-0986-4393-8268-8bc16500cdf3-db87df485d12.jpg",
+        "fee": "410",
+        "Duration": "6 months"
+    },
+    {
+        "key": "07",
+        "courseName": "Wordpress theme Development",
+        "img": "https://blog.hubspot.com/hubfs/best-online-courses.jpg",
+        "fee": "190",
+        "Duration": "3 months"
+    },
+    {
+        "key": "08",
+        "courseName": "Business Analysis & Development",
+        "img": "https://static9.depositphotos.com/1594308/1124/i/600/depositphotos_11242480-stock-photo-at-presentation.jpg",
+        "fee": "200",
+        "Duration": "6 months"
+    }
+]
