@@ -1,8 +1,9 @@
 import React from 'react';
+import "./about.css"
 
 const About = () => {
     return (
-        <div >
+        <div className="about" >
             <h1>Overview</h1>
             <p>Dream IT is an institution where empowering the community for an excellent standard of learning is what we desire. We endeavor for the continuous improvement of our leaders who will work for constructing a better future. The institute is dedicated to serving the quality training programs under ISO 9001: 2015 certification which remarks us in the IT world. We will continue to share our knowledge for contributing to the success of individuals and to serve society with the best interest.
 
