@@ -20,4 +20,7 @@ h4{
     margin-left: 3rem;
     color:white;
 }
+.link:hover{
+    color: rgb(85, 174, 209);
+}
 
