@@ -1,0 +1,23 @@
+.link{
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+    font-weight: bold;
+    font-size: 18px;
+    text-align:center;
+    padding-right: 2rem;
+
+}
+.header{
+    line-height: 4rem;
+    display: flex;
+    background-color: rgb(49, 38, 46);
+    margin:auto;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+}
+h4{
+    margin-left: 3rem;
+    color:white;
+}
+

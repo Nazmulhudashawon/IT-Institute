@@ -3,7 +3,7 @@ import './Footer.css'
 
 const Footer = () => (
     <div className="footer">
-        Copyright © 2021 Dream IT Institute
+        Copyright © 2021 Error Solution IT
     </div>
 );
 

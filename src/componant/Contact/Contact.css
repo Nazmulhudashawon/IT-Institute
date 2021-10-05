@@ -1,6 +1,7 @@
 .item{
-    margin-left: 20px;
-    margin-bottom: 300px;
+    margin-left: 1rem;
+    margin-bottom: 20rem;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
 }
